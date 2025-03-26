@@ -1,5 +1,7 @@
+![github-header-image](https://github.com/user-attachments/assets/b266d9ac-3626-4469-8ced-73a64fe49f25)
+
 <!-- Heading -->
-<h1 align="center">Hello World! I'm Nicholas Lee</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />Hello World! I'm Nicholas Lee</h1>
 
 <h4 align="center">I'm a dedicated software engineer from Malaysia with a strong focus on user experience and continuous improvement.<br/>I strive to develop intuitive solutions that make a difference.</h4>
 
@@ -11,7 +13,7 @@
 </div>
 
 <details open>
-  <summary><h2>👨‍💻 Profile</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40" height="40" /> Profile</h2></summary>
 
   ```python
   class Profile:
@@ -33,13 +35,17 @@
 </details>
 
 <details>
-  <summary><h2>💻 Tech Stack</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="40" height="40" /> Tech Stack</h2></summary>
 
+  <div align="center">
+    
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=csharp,visualbasic,js,ts,html,css,python,java,xml,json,powershell,markdown,postgresql,mysql&includeNames=true&theme=nautilus)](https://github.com/nicholaslhq)
 
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=dotnet,react,next,tailwind,bootstrap&includeNames=true&theme=nautilus)](https://github.com/nicholaslhq)
 
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,mongodb,vercel,nodejs,jquery,prettier,apache,wordpress&includeNames=true&theme=nautilus)](https://github.com/nicholaslhq)
+  
+  </div>
 </details>
 
 <!--
@@ -127,13 +133,13 @@
 -->
 
 <details>
-  <summary><h2>🏆 GitHub Trophies</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="40" height="40" /> GitHub Trophies</h2></summary>
   
   ![](https://github-profile-trophy.vercel.app/?username=nicholaslhq&theme=onestar&no-frame=true&no-bg=false&margin-w=10&title=-Issues,-Reviews)
 </details>
 
 <details>
-  <summary><h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=30px> GitHub Stats</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="40" height="40" /> GitHub Stats</h2></summary>
 
   <div align="center">
     
@@ -151,7 +157,7 @@
 </details>
 
 <details open>
-  <summary><h2>🙌Support Me</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="40" height="40" />Support Me</h2></summary>
   
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nlhq) 
   [![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-2b3137?style=for-the-badge&logo=github)](https://github.com/sponsors/nicholaslhq) 
